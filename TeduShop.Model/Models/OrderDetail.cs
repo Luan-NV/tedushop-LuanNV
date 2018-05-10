@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace TeduShop.Model.Models
 {
     [Table("OrderDetails")]
-    internal class OrderDetail
+    public class OrderDetail
     {
         [Key]
         [Column(Order = 1)]
