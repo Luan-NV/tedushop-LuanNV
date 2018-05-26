@@ -248,6 +248,7 @@
     <Content Include="Views\Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="App\" />
     <Folder Include="Assets\admin\" />
     <Folder Include="Assets\client\" />
   </ItemGroup>
